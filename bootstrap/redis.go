@@ -3,7 +3,7 @@ package bootstrap
 import (
 	"context"
 
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"github.com/go-redis/redis/v8"
 	"go.uber.org/zap"
 )

@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"github.com/VINDA-98/Fasthop/app/controllers/app"
-	"github.com/VINDA-98/Fasthop/app/controllers/common"
-	"github.com/VINDA-98/Fasthop/app/middleware"
-	"github.com/VINDA-98/Fasthop/app/services"
+	"github.com/VINDA-98/fasthop-quote-manager/app/controllers/app"
+	"github.com/VINDA-98/fasthop-quote-manager/app/controllers/common"
+	"github.com/VINDA-98/fasthop-quote-manager/app/middleware"
+	"github.com/VINDA-98/fasthop-quote-manager/app/services"
 	"github.com/gin-gonic/gin"
 )
 

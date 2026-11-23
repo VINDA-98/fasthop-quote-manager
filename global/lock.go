@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/utils"
+	"github.com/VINDA-98/fasthop-quote-manager/utils"
 	"github.com/go-redis/redis/v8"
 )
 

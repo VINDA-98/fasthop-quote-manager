@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/app/common/response"
-	"github.com/VINDA-98/Fasthop/app/services"
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/app/common/response"
+	"github.com/VINDA-98/fasthop-quote-manager/app/services"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
 )

@@ -25,7 +25,7 @@ A Go and Gin web app for managing user stories, quotations and their attachments
 VIPER_CONFIG=/absolute/path/to/fasthop.local.yaml go run .
 ```
 
-To build a binary, run `go build -o Fasthop .`. Run it from the repository root so it can find its bundled web assets. On a Unix server with its own configuration, `VIPER_CONFIG=/absolute/path/to/fasthop.yaml nohup ./Fasthop >out.log 2>&1 &` runs it in the background.
+To build a binary, run `go build -o fasthop-quote-manager .`. Run it from the repository root so it can find its bundled web assets. On a Unix server with its own configuration, `VIPER_CONFIG=/absolute/path/to/fasthop.yaml nohup ./fasthop-quote-manager >out.log 2>&1 &` runs it in the background.
 
 ## License
 

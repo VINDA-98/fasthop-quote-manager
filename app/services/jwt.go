@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/global"
-	"github.com/VINDA-98/Fasthop/utils"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
+	"github.com/VINDA-98/fasthop-quote-manager/utils"
 	"github.com/golang-jwt/jwt/v4"
 )
 

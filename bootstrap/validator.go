@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/VINDA-98/Fasthop/utils"
+	"github.com/VINDA-98/fasthop-quote-manager/utils"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/go-playground/validator/v10"
 )

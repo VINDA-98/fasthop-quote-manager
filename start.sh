@@ -8,7 +8,7 @@ if [ -z $name ]
 then
       echo "No process can be used to killed!"
       #重新启动服务  后台挂起工具服务
-      nohup ./Fasthop >./out.log 2>&1 &
+      nohup ./fasthop-quote-manager >./out.log 2>&1 &
       n=1
       a=`uname  -a`
       b="Darwin"

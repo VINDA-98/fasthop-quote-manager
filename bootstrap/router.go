@@ -9,9 +9,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/app/middleware"
-	"github.com/VINDA-98/Fasthop/global"
-	"github.com/VINDA-98/Fasthop/routes"
+	"github.com/VINDA-98/fasthop-quote-manager/app/middleware"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
+	"github.com/VINDA-98/fasthop-quote-manager/routes"
 	"github.com/gin-gonic/gin"
 )
 

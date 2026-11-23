@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"github.com/gin-gonic/gin"
 )
 

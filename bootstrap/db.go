@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/app/models"
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/app/models"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"go.uber.org/zap"
 	"gopkg.in/natefinch/lumberjack.v2"
 	"gorm.io/driver/mysql"

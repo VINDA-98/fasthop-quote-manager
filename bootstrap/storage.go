@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"github.com/jassue/go-storage/kodo"
 	"github.com/jassue/go-storage/local"
 	"github.com/jassue/go-storage/oss"

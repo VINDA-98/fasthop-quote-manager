@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
 )

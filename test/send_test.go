@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 )
 
 var (

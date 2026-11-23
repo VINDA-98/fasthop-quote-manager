@@ -3,9 +3,9 @@ package services
 import (
 	"errors"
 
-	"github.com/VINDA-98/Fasthop/app/common/request"
-	"github.com/VINDA-98/Fasthop/app/models"
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/app/common/request"
+	"github.com/VINDA-98/fasthop-quote-manager/app/models"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 )
 
 type storyService struct {

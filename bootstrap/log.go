@@ -4,8 +4,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/VINDA-98/Fasthop/global"
-	"github.com/VINDA-98/Fasthop/utils"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
+	"github.com/VINDA-98/fasthop-quote-manager/utils"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"

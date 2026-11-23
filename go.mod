@@ -1,4 +1,4 @@
-module github.com/VINDA-98/Fasthop
+module github.com/VINDA-98/fasthop-quote-manager
 
 go 1.19
 

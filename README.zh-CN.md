@@ -25,7 +25,7 @@
 VIPER_CONFIG=/absolute/path/to/fasthop.local.yaml go run .
 ```
 
-需要二进制文件时运行 `go build -o Fasthop .`。从仓库根目录启动，这样程序才能找到前端资源。Unix 服务器可使用自己的配置，通过 `VIPER_CONFIG=/absolute/path/to/fasthop.yaml nohup ./Fasthop >out.log 2>&1 &` 在后台运行。
+需要二进制文件时运行 `go build -o fasthop-quote-manager .`。从仓库根目录启动，这样程序才能找到前端资源。Unix 服务器可使用自己的配置，通过 `VIPER_CONFIG=/absolute/path/to/fasthop.yaml nohup ./fasthop-quote-manager >out.log 2>&1 &` 在后台运行。
 
 ## 许可证
 

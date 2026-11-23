@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/VINDA-98/Fasthop/bootstrap"
-	"github.com/VINDA-98/Fasthop/global"
+	"github.com/VINDA-98/fasthop-quote-manager/bootstrap"
+	"github.com/VINDA-98/fasthop-quote-manager/global"
 	"log"
 )
 

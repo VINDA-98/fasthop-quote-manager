@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/VINDA-98/Fasthop/app/common/request"
+	"github.com/VINDA-98/fasthop-quote-manager/app/common/request"
 
-	"github.com/VINDA-98/Fasthop/app/common/response"
+	"github.com/VINDA-98/fasthop-quote-manager/app/common/response"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,7 +1,7 @@
 package global
 
 import (
-	"github.com/VINDA-98/Fasthop/config"
+	"github.com/VINDA-98/fasthop-quote-manager/config"
 	"github.com/go-redis/redis/v8"
 	"github.com/jassue/go-storage/storage"
 	"github.com/robfig/cron/v3"
