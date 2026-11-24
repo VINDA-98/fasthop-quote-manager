@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A Go and Gin web app for managing user stories, quotations and their attachments. The service bundles a web UI and provides APIs for account registration and login, managing stories and quotations, and uploading or downloading files and spreadsheets.
+A Go and Gin web app that tracks user stories, quotations and related files. Its bundled UI uses the service's APIs for sign-in, story and quotation management, and file and spreadsheet transfers.
 
 ## Read the code
 
